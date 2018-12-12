@@ -1,0 +1,16 @@
+/*CSS code*/
+
+body{
+	background-color: #808080;
+}
+
+#wrapper{
+	background-color: #087099;
+	margin: 100px auto;
+	width: 500px;
+	height: 500px;
+}
+.ourapp{
+	padding-top: 20px;
+	padding-left: 100px; 
+}
